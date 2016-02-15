@@ -1,2 +1,3 @@
 # WebSetup
-Setup script for web server
+Setup script for web server.
+
